@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="fecha">Fecha</string>
+    <string name="textof">TextoF</string>
+    <string name="hora">Hora</string>
+    <string name="textoh">TextoH</string>
+</resources>
